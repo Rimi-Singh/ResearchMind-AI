@@ -326,7 +326,7 @@ ResearchMind-AI/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/ResearchMind-AI.git
+git clone https://github.com/<Rimi-Singh>/ResearchMind-AI.git
 
 cd ResearchMind-AI
 ```
